@@ -1,0 +1,8 @@
+1) toutes les lignes sauf, la première et la dernière
+2) 5 et 6
+3) 7
+4) 7
+5) 10 11 12 13 et 14
+6) aucune
+7) 11 et 13
+8) 1 3 5 7 9 11 13 15

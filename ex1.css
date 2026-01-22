@@ -1,0 +1,29 @@
+div.divs p.pars {
+            background-color: red;
+}
+
+abbr[title]{
+    color: rgb(255,0,0);
+}
+
+[width=300]{
+
+}
+
+nav.nav1 a[href]{
+
+}
+
+div.divs>p{}
+
+p#id1 img.images{}
+
+img:nth-child(2n+1){
+    height: 10000;
+}
+
+img[$=.jpg]
+
+div.div1+div.div2{}
+
+tr:nth-child(2n){}  /*tableau, tr=ligne, th=colonne
