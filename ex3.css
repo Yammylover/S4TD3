@@ -2,8 +2,6 @@
 body>ol>li {
     list-style-type: upper-roman;
 }
-upper-latin
-decimal
 li>ol>li {
     list-style-type: upper-latin;
 }

@@ -1,0 +1,25 @@
+li {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px 5px 0 0;
+    padding: 5px;
+}
+
+li.l1{
+    background-color: yellow;
+    border-spacing: 10cm;
+}
+
+li.active{
+    background-color: white;
+
+}
+
+li.l2{
+    background-color: green;
+
+}
+
+li.l3{
+    background-color: darkblue;
+}
