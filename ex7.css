@@ -1,0 +1,22 @@
+td[colspan]{
+    background-color: red;
+}
+
+td{ /*td:not([colspan])*/
+    background-color: yellow;
+}
+
+tr:nth-child(1){
+    font-size:32px;
+    font-weight: bold;
+}
+
+td:nth-child(1){
+    font-size: 32px;
+    font-style: italic;
+}
+
+caption{
+    font-size: 32px;
+    font-style: italic;
+}
