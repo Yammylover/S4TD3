@@ -1,0 +1,24 @@
+table{
+    background-color: #4287f5;
+}
+
+select:hover{
+    background-color: red;
+}
+
+input[type="text"]:hover{
+    background-color: red;
+}
+
+button:focus{
+    font-size: 32px;
+}
+
+tr:nth-child(1){
+    font-size: 32px;
+    font-weight: bold;
+}
+
+:focus-visible{
+    
+}
